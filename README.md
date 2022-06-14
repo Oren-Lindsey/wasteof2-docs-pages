@@ -1,3 +1,5 @@
+(check out the *work in progress* [wasteof3 documentation](https://github.com/wulliy/wasteof3-docs) wowie)
+
 # wasteof2-docs
 the documention for current wasteof.money, available at wasteof.money
 
